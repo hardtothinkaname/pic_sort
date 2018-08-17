@@ -36,3 +36,7 @@ def model(canvas, pos, im, name):
     tag(canvas, pos2)
     text(canvas, pos2, name)
 
+
+def save(im, path):
+    im.save(path)
+
