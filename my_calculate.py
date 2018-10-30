@@ -4,7 +4,7 @@
 # 输入的参数
 
 # 离图片顶部距离
-top_margin = 30
+top_margin = 50
 
 # 离图片底部距离
 bottom_margin = 10
@@ -19,7 +19,7 @@ pic_count_in_horizontal = 1
 pic_count_in_vertical = 1
 
 # 照片的比例
-model_ratio = 60 / 90
+model_ratio = 60 / 160
 
 pic_width = 750
 
